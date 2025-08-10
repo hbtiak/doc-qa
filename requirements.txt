@@ -1,0 +1,9 @@
+streamlit
+faiss-cpu
+sentence-transformers
+transformers
+torch
+pandas
+python-docx
+pdfminer.six
+beautifulsoup4

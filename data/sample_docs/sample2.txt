@@ -1,0 +1,6 @@
+Document QA Demo - Sample Document 2
+
+Another sample document. This one contains some facts:
+- The capital of France is Paris.
+- The largest planet in our solar system is Jupiter.
+- Streamlit makes it easy to build data apps.

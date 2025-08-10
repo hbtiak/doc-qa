@@ -1,0 +1,5 @@
+Document QA Demo - Sample Document 1
+
+This is a small sample document used to demonstrate the Document QA and Semantic Search Streamlit app.
+Feel free to ask questions about the content. The quick brown fox jumps over the lazy dog.
+The purpose of this sample doc is to provide simple content for local testing and demoing the pipeline.
